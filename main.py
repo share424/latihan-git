@@ -1,4 +1,2 @@
-print('Hello bila')
-
-
+print('Hello bila bangsat')
 print("Hello surya")
